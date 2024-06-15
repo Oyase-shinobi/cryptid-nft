@@ -36,4 +36,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Check project in here
 
-[cryptid.mosesmawuru.pro]https://cryptid.mosesmawuru.pro/
+[cryptid.mosesmawuru.pro](https://cryptid.mosesmawuru.pro/)
